@@ -5,6 +5,6 @@
 - 📫 You can reach me here or via my email @ peterbasseyprojects@gmail.com
 
 <!---
-EddyBazz/EddyBazz is a ✨ Professional Technical Writer ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EddyBazz/EddyBazz is a ✨ Professional Technical Writer ✨ 
 You can click the Preview link to take a look at your changes.
 --->
